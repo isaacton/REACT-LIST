@@ -10,7 +10,9 @@ function App() {
     { name: "Jambul" },
     { name: "Plum" },
     { name: "Lemon" },
-    { name: "Pomelo" }
+    { name: "Pomelo" },
+    { name: "cashew" },
+    { name: "mango" }
   ];
 
   return (
